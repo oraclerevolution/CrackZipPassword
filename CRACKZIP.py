@@ -3,7 +3,7 @@ import zipfile
 import optparse
 
 def usage():
-    print ("CRACK ZIPFILE ver1.0, by BerrusSama\n")
+    print ("CRACK ZIPFILE ver1.0, by johntheripper225\n")
     print("python crack_zipfile.py [-f] zip_filename [-d] dictionnary_filename\n")
     print("[Options]")
     print("-f <zip filename>")
